@@ -12,4 +12,4 @@ An interactive Excel dashboard built to analyze smartphone market trends, includ
 
 ## 📁 Files Included
 * `EXCEL_1.xlsx` - Interactive Excel workbook containing source data and dynamic dashboards.
-* `Screenshot 2026-07-23 161424.png` - Preview image of the dashboard interface.
+* `Screenshot 2026-07-24 020500.png` - Preview image of the dashboard
